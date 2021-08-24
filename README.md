@@ -1,4 +1,5 @@
-### Hi there 👋 I am Bon Jeong Gu!
+### Hi there 👋 <br>
+I am Bon Jeong Gu!
 
 ## :mortar_board: Education 
 - Sookmyung Women's University (2017.03 ~ 2021.02)   
@@ -14,11 +15,10 @@
 
 ## :office: Work
 - __Kolon Benit__ Program Developer Internship (2021.07 ~ 2021.09)
-     
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=bjgu97)](https://solved.ac/bjgu97)
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=bjgu97)](https://solved.ac/bjgu97)
-[![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=bjgu97)](https://solved.ac/bjgu97)
  
+## 
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=bjgu97)](https://solved.ac/bjgu97)
+
 <!--
 **bjgu97/bjgu97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
