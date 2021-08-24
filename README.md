@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Bon Jeong Gu!
 
 ## :mortar_board: Education 
 - Sookmyung Women's University (2017.03 ~ 2021.02)   
