@@ -2,7 +2,7 @@
 
 ## Education 
 - Sookmyung Women's University (2017.03 ~ 2021.02)   
-  Bachelor's Degree in __Information Technology Engineering and __Statistics__    
+  Bachelor's Degree in __Information Technology Engineering__ and __Statistics__    
 - Samsung Software Academy For Youth, SSAFY (2021.01 ~ 2021.06)
     
     
