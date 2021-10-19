@@ -4,17 +4,18 @@ I am Bon Jeong Gu!
 ## :mortar_board: Education 
 - Sookmyung Women's University (2017.03 ~ 2021.02)   
   Bachelor's Degree in __Information Technology Engineering__ and __Statistics__    
-- Samsung Software Academy For Youth, SSAFY (2021.01 ~ 2021.06)
+- Samsung Software Academy For Youth, __SSAFY__ (2021.01 ~ 2021.06)
     
     
     
 ## :bulb: Experience
-- 멋쟁이 사자처럼 Likelion 5기 (2017.03 ~ 2017.11) 
-- 프로그라피 Prography 4기 ()
-- 월드프렌즈 ICT 봉사단 World Friends Korea (2019.07 ~ 2019.08)
+- 멋쟁이 사자처럼 __Likelion__ 5기 (2017) 
+- 프로그라피 __Prography__ ()
+- 월드프렌즈 ICT 봉사단 World Friends Korea (2019)
 
 ## :office: Work
-- __Kolon Benit__ Program Developer Internship (2021.07 ~ 2021.09)
+- __Kolon Benit__ Internship (2021.07 ~ 2021.09)
+- __Kolon Benit__ System Engineer (2021.10 ~ )
  
 ## 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=bjgu97)](https://solved.ac/bjgu97)
