@@ -9,8 +9,8 @@ I am Bon Jeong Gu!
     
     
 ## :bulb: Experience
-- 멋쟁이 사자처럼 __Likelion__ 5기 (2017) 
-- 프로그라피 __Prography__ ()
+- 멋쟁이 사자처럼 Likelion 5기 (2017) 
+- 프로그라피 Prography ()
 - 월드프렌즈 ICT 봉사단 World Friends Korea (2019)
 
 ## :office: Work
